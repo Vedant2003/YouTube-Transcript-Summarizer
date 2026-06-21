@@ -1,1 +1,3 @@
 # YouTube-Transcript-Summarizer
+This project is an AI-powered YouTube Transcript Summarizer built using Python, Hugging Face Transformers, Gradio, and the YouTube Transcript API. The application extracts transcripts from YouTube videos, processes long transcripts through intelligent text chunking, and generates concise summaries using a transformer-based NLP model. It features a user-friendly Gradio interface where users can simply paste a YouTube URL to receive an automated summary. The project demonstrates practical applications of Natural Language Processing (NLP), text summarization, API integration, and interactive web development, making it a useful tool for quickly understanding long-form video content.
+
